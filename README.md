@@ -55,13 +55,21 @@ plt.show()
 ```
 
 ## Output:
-![Screenshot 2024-12-05 191842](https://github.com/user-attachments/assets/1f2f0467-7d4e-4e8f-ace1-7d562762f1e0)
-![Screenshot 2024-12-05 191833](https://github.com/user-attachments/assets/bed32305-72f6-4a5d-b44c-bb7b9c67fb6d)
-![Screenshot 2024-12-05 191820](https://github.com/user-attachments/assets/41ff4290-071b-42e9-98ea-2536485ae861)
-![Screenshot 2024-12-05 191812](https://github.com/user-attachments/assets/388104a0-6753-45bb-b3ff-6f3c10400ee9)
-![Screenshot 2024-12-05 191759](https://github.com/user-attachments/assets/0f7fa445-2309-4d2b-a4b4-922f7969dabf)
-![Screenshot 2024-12-05 191751](https://github.com/user-attachments/assets/60d95b1d-aca3-4766-a399-1aafe3c70867)
-![Screenshot 2024-12-05 191851](https://github.com/user-attachments/assets/81b6718d-73d3-44b3-a5ec-f138dacbcdc8)
+## Initial data set:
+![exp 6 ml 1](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118541549/2fb1cd6d-4da0-4245-8087-0f3dc6adbadf)
+## Data info:
+![exp 6 ml 2](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118541549/b06006a8-34b7-4a52-ad76-bd925c9ce6c3)
+## Optimization of null values:
+![exp 6 ml 3](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118541549/f585db85-5818-4437-bcc3-2740f900914b)
+## Assignment of x and y values:
+![exp 6 ml 4](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118541549/f3eddb41-9232-4111-8e3f-648033a2082e)
+![exp 6 ml 5](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118541549/5afe85e6-d8ca-42bc-8e09-029d80ec2947)
+## Converting string literals to numerical values using label encoder:
+![exp 6 ml 6](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118541549/46f2a95f-c579-4e6b-a936-5eb265a330fa)
+## Accuracy:
+![exp 6 ml 7](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118541549/4a1170b7-70a6-4382-b715-c0b8ef3f5640)
+## Prediction:
+![exp 6 ml 8](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118541549/404d7a22-42f9-45c2-a40c-34df17264900)
 
 
 
